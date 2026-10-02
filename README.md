@@ -124,7 +124,7 @@ Remove-ItemProperty -LiteralPath 'HKCU:\Software\Microsoft\Windows\CurrentVersio
 
 原始个人部署在 Windows 11、桌面应用 26.903.8094.0、Node.js 24.19.0 和 DSCodex 本地版本上使用。这一公开版本将路径改为参数，并增加独立临时目录及凭据访问限制；已做静态语法和发布内容检查，未在干净 Windows 环境做完整安装及升级验证。目录发现依赖当前 CLI 的行为，未来版本可能需要适配。
 
-GPT / DeepSeek 共存能力归功于 [fish2lab/DSCodex](https://github.com/fish2lab/DSCodex)。本仓库整理 Windows 配套维护流程，不宣称首创多模型共存或目录自动刷新。
+GPT / DeepSeek 共存能力归功于 [fish2lab/DSCodex](https://github.com/fish2lab/DSCodex)。本仓库整理 Windows 配套维护流程。
 
 参考：[Codex 配置文档](https://developers.openai.com/codex/config-reference/)、[DSCodex 目录合并源码](https://github.com/fish2lab/DSCodex/blob/main/src/catalog.mjs)。
 

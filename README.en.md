@@ -48,6 +48,6 @@ The original deployment used Windows 11, desktop app 26.903.8094.0 and Node.js 2
 
 ## Attribution and license
 
-GPT / DeepSeek coexistence is provided by [fish2lab/DSCodex](https://github.com/fish2lab/DSCodex). These companion scripts document a Windows maintenance workflow and make no claim to have invented model routing or automatic catalog refresh.
+GPT / DeepSeek coexistence is provided by [fish2lab/DSCodex](https://github.com/fish2lab/DSCodex). These companion scripts document a Windows maintenance workflow.
 
 Scripts and documentation: [MIT](LICENSE). DSCodex is separately distributed under its upstream MIT license; no router source is redistributed here.
