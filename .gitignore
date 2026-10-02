@@ -1,0 +1,12 @@
+# Publish source only; never add local Codex credentials or runtime state.
+.codex/
+auth.json
+config.json
+config.toml
+models_cache.json*
+dscodex-models.json
+refresh-marker.json
+*.log
+*.log.err
+*.bak
+node_modules/
